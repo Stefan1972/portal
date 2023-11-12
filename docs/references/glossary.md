@@ -547,7 +547,7 @@ builds upon this functionality.
 A **principal** is an entity that can be authenticated by the [Internet
 Computer](#internet-computer-ic). This is the same sense of the
 word principal as the [Wikipedia
-definition](https://en.wikipedia.org/wiki/Principal-(computer-security)).
+definition](https://en.wikipedia.org/wiki/Principal_(computer_security)).
 Principals that interact with the Internet Computer do so using a
 certain [identity](#identity).
 
